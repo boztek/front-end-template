@@ -1,0 +1,3 @@
+App =
+  hello: -> 'Hello, world.'
+
